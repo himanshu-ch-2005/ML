@@ -1,9 +1,12 @@
+# Simple Linear Regression
 
-This project demonstrates how to use **Simple Linear Regression** to predict a dependent variable based on one independent variable.
+## Project Overview
 
-I used a dataset of salaries to predict salary based on years of experience.
+This project demonstrates how to use Simple Linear Regression to predict a dependent variable based on one independent variable.
 
-# Dataset
+The dataset used contains salary information to predict salary based on years of experience.
+
+## Dataset
 
 * Dataset: Salary Dataset
 * Features:
@@ -11,7 +14,7 @@ I used a dataset of salaries to predict salary based on years of experience.
   * Years of Experience (Independent Variable)
   * Salary (Dependent Variable)
 
-# Technologies Used
+## Technologies Used
 
 * Python
 * NumPy
@@ -19,7 +22,7 @@ I used a dataset of salaries to predict salary based on years of experience.
 * Matplotlib
 * Scikit-learn
 
-# Steps Performed
+## Steps Performed
 
 1. Imported required libraries
 2. Loaded and explored the dataset
@@ -28,36 +31,33 @@ I used a dataset of salaries to predict salary based on years of experience.
 5. Predicted results
 6. Visualized the regression line
 
-# Model Explanation
+## Model Explanation
 
 Simple Linear Regression tries to fit a straight line:
 
-[
 y = mx + c
-]
 
 Where:
 
-* (y) = predicted value (Salary)
-* (x) = input (Experience)
-* (m) = slope
-* (c) = intercept
+* y = predicted value (Salary)
+* x = input (Experience)
+* m = slope
+* c = intercept
 
-# Results
+## Results
 
 * The model successfully predicts salary based on experience
 * Visualization shows a strong linear relationship
 
-
-# What I Learned
+## What I Learned
 
 * Basics of regression models
 * How to train and test a model
 * Data visualization
 * Using Scikit-learn
 
-# Day 01 of ML Journey
+## Day 01 of ML Journey
 
-This is my first step in learning Machine Learning and building my portfolio.
+Before starting with models, I have already learned and practiced important Python libraries such as NumPy, Pandas, and Matplotlib, along with basic feature engineering techniques.
 
-
+Now, I am focusing on machine learning models and will continue to build and upload them here as part of my learning journey.
