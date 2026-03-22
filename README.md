@@ -6,8 +6,6 @@ This repository contains my daily practice, projects, and progress.
 ## Learning Progress
 
 * Day 01: Simple Linear Regression
-* Day 02: (Coming soon...)
-* Day 03: (Coming soon...)
 
 ## Projects
 
@@ -38,9 +36,7 @@ To become a Machine Learning Engineer
 
 ## Future Plans
 
-* Data Preprocessing
-* Multiple Linear Regression
-* Classification (Logistic Regression)
+* Machine Learning Models
 * Deep Learning
 
 If you like this repo, feel free to star it!
