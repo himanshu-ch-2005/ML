@@ -1,35 +1,10 @@
 # My Machine Learning Journey
 
-Hi, I'm currently learning Machine Learning and building my skills step by step. This repository contains my daily practice, projects, and progress.
+Hi, I'm currently learning Machine Learning and building my skills step by step. This repository contains my practice work, projects, and progress as I explore and implement different concepts.
 
-## Learning Progress
+## About This Repository
 
-Day 01: Simple Linear Regression  
-Day 02: Multiple Linear Regression  
-Day 03: Gradient Descent & Regression from Scratch  
-
-## Projects
-
-### Day 01: Simple Linear Regression
-Built a regression model to predict salary based on experience  
-Used Python and Scikit-learn  
-Learned basics of model training and visualization  
-
-### Day 02: Multiple Linear Regression
-Worked with multiple features to improve prediction accuracy  
-Generated dataset using make_regression  
-Applied Multiple Linear Regression using Scikit-learn  
-Built my own Multiple Linear Regression model from scratch  
-Tested model on Diabetes dataset and Salary dataset  
-Compared custom model with Scikit-learn and got similar results  
-
-### Day 03: Gradient Descent & Regression from Scratch
-Implemented Gradient Descent from scratch  
-Built Batch Gradient Descent, Stochastic Gradient Descent, and Mini-Batch Gradient Descent  
-Trained models on synthetic and Diabetes datasets  
-Compared results with Scikit-learn models  
-Learned how models update parameters to minimize error  
-Visualized learning and model behavior  
+This repository showcases my hands-on work where I focus on understanding how models work internally by building them from scratch, along with using standard libraries. It reflects my learning process, consistency, and practical approach toward mastering Machine Learning.
 
 ## Tools & Technologies
 
@@ -41,18 +16,19 @@ Scikit-learn
 
 ## Goal
 
-To become a Machine Learning Engineer  
+To become a Machine Learning Engineer by strengthening both conceptual understanding and practical implementation skills.
 
-## What I’m Doing Daily
+## What I’m Doing
 
-Learning ML concepts  
-Practicing with datasets  
-Uploading projects on GitHub  
+Practicing regularly  
+Working with datasets  
+Building and testing models  
 Improving coding and problem-solving skills  
 
 ## Future Plans
 
-Machine Learning Models  
-Deep Learning  
+Work on more complex problems  
+Build real-world projects  
+Continue improving consistency and depth in learning  
 
 If you like this repo, feel free to star it!
